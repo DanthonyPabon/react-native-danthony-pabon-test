@@ -1,7 +1,20 @@
 
 # react-native-danthony-pabon-test
 
-Mobile app enabling global banking via the metric API.
+Mobile app test
+
+## About The Project
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://raw.githubusercontent.com/DanthonyPabon/react-native-danthony-pabon-test/master/screenshop/screen-shop-one.png?token=GHSAT0AAAAAABQUIRJVULQLMYYBDSMFOLKMYPJ6GYA">
+    <img src="screenshop/screen-shop-one.png" alt="Logo" height="800">
+  </a>
+  <a href="https://raw.githubusercontent.com/DanthonyPabon/react-native-danthony-pabon-test/master/screenshop/screen-shop-one.png?token=GHSAT0AAAAAABQUIRJVULQLMYYBDSMFOLKMYPJ6GYA">
+    <img src="screenshop/screen-shop-two.png" alt="Logo" height="800">
+  </a>
+</div>
 
 ## Requirements
 
